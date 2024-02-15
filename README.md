@@ -1,20 +1,25 @@
-### Hi there 👋
+### 🧑‍💼 Introducing Myself
 
-<!--
-**gnash-k/gnash-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, I'm Ganesh Kumbhar. Data Analyst with expertise in data analysis and reporting, query optimization,database design, and data modelling. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Table of Contents
-- [How to Create Your Profile?](#how-to-create-your-profile)
-- [How to Customize Markdown files?](#how-to-customize-markdown-files)
-- [How to Create New Repository?](#how-to-create-new-repository)
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis using SQL.
+- Developing dashboards on Power BI and Tableau.
+- Data analysis and reporting using Google Sheets and MS-Excel.
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com).
+
+### 🛠️ Tools
+
+- Language: SQL, Python,R 
+- Database: PostgreSQL, MySQL
+- Visualization: Power BI, Tableau
+- Spreedsheet: MS-Excel, Google Sheets
+- Presentation: MS-PowerPoint, MS-Word
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](http://www.linkedin.com/in/theganeshk)
