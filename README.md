@@ -10,7 +10,7 @@ Hello, I'm Ganesh Kumbhar. Data Analyst with expertise in data analysis and repo
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/gnash-k/SQL-projects).
 
 ### 🛠️ Tools
 
